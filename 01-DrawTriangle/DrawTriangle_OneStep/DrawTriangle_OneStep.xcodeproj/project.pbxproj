@@ -115,7 +115,7 @@
 				TargetAttributes = {
 					23F131F41DBF844A006F76AF = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = R25D8C74JA;
+						DevelopmentTeam = 97DW55HLWV;
 					};
 				};
 			};
@@ -124,6 +124,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -270,7 +271,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				INFOPLIST_FILE = DrawTriangle_OneStep/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.windy.DrawTriangle-OneStep";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -281,7 +284,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				INFOPLIST_FILE = DrawTriangle_OneStep/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.windy.DrawTriangle-OneStep";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -307,6 +312,7 @@
 				23F1320E1DBF844A006F76AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

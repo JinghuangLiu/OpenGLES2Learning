@@ -120,6 +120,7 @@
 				TargetAttributes = {
 					23EF7C491E0569DE00795600 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 97DW55HLWV;
 					};
 				};
 			};
@@ -128,6 +129,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -275,7 +277,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				INFOPLIST_FILE = DrawCube/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.windy.DrawCube;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -286,7 +290,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				INFOPLIST_FILE = DrawCube/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.windy.DrawCube;
 				PRODUCT_NAME = "$(TARGET_NAME)";

@@ -249,6 +249,7 @@
 				TargetAttributes = {
 					23D7FF891E51E58300A8D769 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 97DW55HLWV;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -428,8 +430,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				INFOPLIST_FILE = "Texture-Base-OneStep/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.windy.Texture-Base-OneStep";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -440,8 +443,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				INFOPLIST_FILE = "Texture-Base-OneStep/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.windy.Texture-Base-OneStep";
 				PRODUCT_NAME = "$(TARGET_NAME)";
